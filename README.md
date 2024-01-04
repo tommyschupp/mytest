@@ -1,2 +1,2 @@
 # mytest
-Brief description.
+Even briefer description.
